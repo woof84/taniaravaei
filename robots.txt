@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://woof84.github.io/taniaravaei//sitemap.xml
+Sitemap: https://woof84.github.io/sitemap.xml

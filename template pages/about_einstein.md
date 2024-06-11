@@ -1,0 +1,5 @@
+Tania Ravaei is a Ph.D. candidate in the Department of Sociology at Indiana University. There, she works closely with Kinsey Institute for Sex Research and Irsay Institute for Sociomedical Sciences Research. Her research interests are broadly in the domain of medical sociology, population health, and political sociology. More specifically, she has focuses in sexual behavior and health, sociopolitical attitudes, and mixed methods research. Ravaei is also a Health Policy Research Fellow with the Robert Wood Johnson Foundation and John Hopkins School of Public Health. 
+
+Her master’s thesis uses weekly panel data to examine how adolescent women who are stressed and depressed differ in their sexual relationship trajectories. Prior to Indiana University, she completed her undergraduate degrees in Sociology and Anthropology at the University of California, Los Angeles, where she was a Mellon Mays Undergraduate Fellow. 
+
+For more specific information regarding her research, visit the “research” tab or view her CV.

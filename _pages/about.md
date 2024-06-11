@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Tania Ravaei is a Ph.D. candidate in the [Department of Sociology at Indiana University](https://sociology.indiana.edu/about/graduate-students/Ravaei-tania.html). There, she works closely with Kinsey Institute for Sex Research and Irsay Institute for Sociomedical Sciences Research. Her research interests are broadly in the domain of medical sociology, population health, and political sociology. More specifically, she has focuses in sexual behavior and health, sociopolitical attitudes, and mixed methods research. Ravaei is also a Health Policy Research Fellow with the Robert Wood Johnson Foundation and John Hopkins School of Public Health. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Her master’s thesis uses weekly panel data to examine how adolescent women who are stressed and depressed differ in their sexual relationship trajectories. Prior to Indiana University, she completed her undergraduate degrees in Sociology and Anthropology at the University of California, Los Angeles, where she was a Mellon Mays Undergraduate Fellow. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more specific information regarding her research, visit the “research” tab or view her CV.

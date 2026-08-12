@@ -27,7 +27,7 @@ Studies of religion and nonmarital sexual behavior often focus on the timing of 
 
   <!-- RIGHT COLUMN: Text and Layout Details -->
   <div class="col">
-    <h3 style="margin-top: 0; margin-bottom: 20px; font-size: 1.35rem; line-height: 1.4; font-weight: bold; color: #212529;">
+    <h3 style="margin-top: 0; font-size: 1.35rem; line-height: 1.4; font-weight: bold; color: #212529;">
       Religiosity and the Pathway to an Ongoing Nonmarital Penile–Vaginal Sexual Relationship during the Transition to Adulthood (<em>Forthcoming</em>.)
     </h3>
     <h5>
